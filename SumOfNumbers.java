@@ -1,5 +1,5 @@
 import java.util.Scanner;  
-public class SumOfNumbers2  
+public class SumOfNumbers 
 {  
 public static void main(String args[])  
 {  
